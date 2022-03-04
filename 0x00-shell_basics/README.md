@@ -1,3 +1,7 @@
+<h1>Shell Basics </h1>
+<hr>
+<h2>Scripts for executing basic commands in shell</h2>
+<hr>
 0-current_working_directory - This script prints the absolute path name of the current working directory
 <hr>
 1-listit - This script display the contents list of your current directory.
