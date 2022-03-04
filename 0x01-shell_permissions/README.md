@@ -32,4 +32,7 @@
 <hr>
 101-symbolic_link_permissions - This script changes the owner of _hello to vincent and staff respectively
 <hr>
+102-if_only - This script changes the owner of the file hello to betty only if it is owned by the user guillaume
+<hr>
+103-Star_Wars - This script will play StarWars IV episode in the terminal
 
