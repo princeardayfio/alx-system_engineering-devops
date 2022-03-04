@@ -30,4 +30,6 @@
 <hr>
 100-change_owner_and_group - This script changes the owner to vincent and the group owner to staff for all the files and directories in the in the working directory.
 <hr>
+101-symbolic_link_permissions - This script changes the owner of _hello to vincent and staff respectively
+<hr>
 
