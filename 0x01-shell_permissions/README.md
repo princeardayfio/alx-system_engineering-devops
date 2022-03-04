@@ -28,4 +28,6 @@
 <hr>
 13-change_group - This script changes the group owner to school for the file hello
 <hr>
+100-change_owner_and_group - This script changes the owner to vincent and the group owner to staff for all the files and directories in the in the working directory.
+<hr>
 
