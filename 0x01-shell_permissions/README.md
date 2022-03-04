@@ -14,3 +14,6 @@
 <hr>
 6-multiple_permissions - This script adds execute permssion to the owner and the group owner, and read permission to the users, to the file hello.
 <hr>
+7-everybody - This script adds execution permision to the owner, the group owner and the other users, to the file hello. 
+<hr>
+
