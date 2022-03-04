@@ -24,4 +24,6 @@
 <hr>
 11-directories-permissions - This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 <hr>
+12-directory_permissions - this script creates a directory called my-dir with permissions 751 in the working directory
+<hr>
 
