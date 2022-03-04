@@ -26,4 +26,6 @@
 <hr>
 12-directory_permissions - this script creates a directory called my-dir with permissions 751 in the working directory
 <hr>
+13-change_group - This script changes the group owner to school for the file hello
+<hr>
 
