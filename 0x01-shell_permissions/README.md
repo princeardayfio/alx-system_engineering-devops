@@ -20,7 +20,7 @@
 <hr>
 9-John_Doe - This script sets the mode of the file hello to -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 <hr>
-10-mirror_permissions - This script sets the mode of the file hellp the same as olleh's mode
+10-mirror_permissions - This script sets the mode of the file hello the same as olleh's mode
 <hr>
 11-directories-permissions - This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 <hr>
