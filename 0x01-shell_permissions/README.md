@@ -4,3 +4,10 @@
 <hr>
 1-who_am_i - This script prints the effetive username of the current user
 <hr>
+2-groups - This script prints all the groups the current user is a part of.
+<hr>
+3-new_owner - This script changes the owner of the file hello to the user betty.
+<hr>
+4-empty - This script adds the execute permission to the owner of the file hello. 
+<hr>
+
