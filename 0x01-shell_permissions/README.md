@@ -16,4 +16,6 @@
 <hr>
 7-everybody - This script adds execution permision to the owner, the group owner and the other users, to the file hello. 
 <hr>
+8-James_Bond - This script sets the permission to only other users.
+<hr>
 
