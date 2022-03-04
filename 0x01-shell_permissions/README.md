@@ -8,6 +8,9 @@
 <hr>
 3-new_owner - This script changes the owner of the file hello to the user betty.
 <hr>
-4-empty - This script adds the execute permission to the owner of the file hello. 
+4-empty - This script creates an empty file called hello 
 <hr>
-
+5-execute - This script adds execute permission to the owner of the file hello
+<hr>
+6-multiple_permissions - This script adds execute permssion to the owner and the group owner, and read permission to the users, to the file hello.
+<hr>
