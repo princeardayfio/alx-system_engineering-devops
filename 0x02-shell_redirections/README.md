@@ -6,3 +6,5 @@
 <hr> 
 2-hellofile - This script displays the content of the /etc/passwd file. 
 <hr>
+3-twofiles - This script displays the content of the /etc/passwd and /etc/hosts. 
+<hr>
