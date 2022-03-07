@@ -4,3 +4,5 @@
 <hr>
 1-confused_smiley - This script a confused smiley "(Ôo)'
 <hr> 
+2-hellofile - This script displays the content of the /etc/passwd file. 
+<hr>
