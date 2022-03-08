@@ -14,3 +14,5 @@
 <hr>
 6-create_local_variable - This script creates a new local variable
 <hr>
+7-create_global_variable - This script creates a new global variable.
+<hr>
