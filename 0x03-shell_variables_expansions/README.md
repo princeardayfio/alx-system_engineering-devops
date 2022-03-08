@@ -16,3 +16,5 @@
 <hr>
 7-create_global_variable - This script creates a new global variable.
 <hr>
+8-true_knowledge - This script prints result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
+<hr>
