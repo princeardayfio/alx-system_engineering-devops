@@ -24,3 +24,5 @@
 <hr>
 11-binary_to_decimal - This script converts from base 2 to base 10
 <hr>
+12-combinations - This script prints all possible combinations pf two letters, except oo.
+<hr>
