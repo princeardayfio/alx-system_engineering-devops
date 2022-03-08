@@ -16,3 +16,5 @@
 <hr>
 7-file - This script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School
 <hr>
+8-cwd_state - This script writes the result of the command **ls -la** into a file **ls_cwd_content**
+<hr>
