@@ -10,4 +10,5 @@
 <hr>
 4-global_variables - This script lists the environment variables
 <hr>
-
+5-local_variables - This script that lists local variables and environment variables, and functions.
+<hr>
