@@ -34,3 +34,5 @@
 <hr>
 16-whatsnext - This script displays lines containing the pattern "root" and 3 lines after them in a file /etc/passwd .
 <hr>
+17-hidethisword - Display all the lines in the file /etc/passwd that do not contain the pattern "bin"
+<hr>
