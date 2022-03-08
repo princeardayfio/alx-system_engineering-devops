@@ -28,3 +28,5 @@
 <hr>
 13-unique - This script takes a list of words a sinouts and prints only words that appear exactly once. 
 <hr>
+14-findthatword - This script displays lines containing the patern "root" from the file /etc/passwd
+<hr>
