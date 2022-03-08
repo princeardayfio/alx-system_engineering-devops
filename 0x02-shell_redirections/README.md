@@ -16,5 +16,7 @@
 <hr>
 7-file - This script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School
 <hr>
-8-cwd_state - This script writes the result of the command **ls -la** into a file **ls_cwd_content**
+8-cwd_state - This script writes the result of the command <strong>ls -la</strong> into a file <strong>ls_cwd_content</strong>
+<hr>
+9-duplicate_last_line - This script duplicates the last line of the the file iacta
 <hr>
