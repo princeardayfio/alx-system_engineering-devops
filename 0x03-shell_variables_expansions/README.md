@@ -28,3 +28,5 @@
 <hr>
 13-print_float - This script prints a number with two decimal places
 <hr>
+100-decimal_to_hexadecimal - This script converts a number from base 10 to base 6
+<hr>
