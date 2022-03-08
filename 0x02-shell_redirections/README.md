@@ -26,3 +26,5 @@
 <hr>
 12-newest_files - This script displays the 10 newest files in the current directory
 <hr>
+13-unique - This script takes a list of words a sinouts and prints only words that appear exactly once. 
+<hr>
