@@ -48,3 +48,5 @@
 <hr>
 100-empty_casks - This script empty files and directories in the current directory and all sub-directories.
 <hr>
+101-gifs - This script lists all the files with a /gif extension in the current directory and all its sub-directories.
+<hr>
