@@ -32,3 +32,5 @@
 <hr>
 101-rot13 - This script econdes and decodes the text using the rot13 encryption assuming ASCII
 <hr>
+102-odd - This script prints every other line from the input, starting with the first line
+<hr>
