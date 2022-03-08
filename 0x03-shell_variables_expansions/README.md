@@ -20,3 +20,5 @@
 <hr>
 9-divide_and_rule - This script prints the result of POWER divide by DIVIDE
 <hr>
+10-love_exponent_breath - This script displays the result of BREATH to the power LOVE
+<hr>
