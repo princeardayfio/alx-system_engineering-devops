@@ -44,3 +44,5 @@
 <hr>
 21-reverse - This script reverses its input.
 <hr>
+22-users_and_homes - This script displays all the users and their home directories, sorted by users. 
+<hr>
