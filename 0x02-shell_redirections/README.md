@@ -42,3 +42,5 @@
 <hr>
 20-hiago - This script removes all the letters c and C from input.
 <hr>
+21-reverse - This script reverses its input.
+<hr>
