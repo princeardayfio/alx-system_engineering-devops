@@ -34,3 +34,5 @@
 <hr>
 102-odd - This script prints every other line from the input, starting with the first line
 <hr>
+103-water_and_stir - This script adds two numbers stored in the environment variables WATER and STIR and prints the result.
+
