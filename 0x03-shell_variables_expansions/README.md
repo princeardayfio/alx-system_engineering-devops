@@ -26,3 +26,5 @@
 <hr>
 12-combinations - This script prints all possible combinations pf two letters, except oo.
 <hr>
+13-print_float - This script prints a number with two decimal places
+<hr>
