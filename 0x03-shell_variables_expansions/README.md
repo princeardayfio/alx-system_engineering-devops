@@ -30,3 +30,5 @@
 <hr>
 100-decimal_to_hexadecimal - This script converts a number from base 10 to base 6
 <hr>
+101-rot13 - This script econdes and decodes the text using the rot13 encryption assuming ASCII
+<hr>
