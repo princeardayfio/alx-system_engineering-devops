@@ -20,3 +20,5 @@
 <hr>
 9-duplicate_last_line - This script duplicates the last line of the the file iacta
 <hr>
+10-no_more_js - This script deletes all the regular files with a .js extension that are present in the current directory and all its subfolders
+<hr>
