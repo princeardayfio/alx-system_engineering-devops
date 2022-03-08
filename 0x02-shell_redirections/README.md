@@ -46,3 +46,5 @@
 <hr>
 22-users_and_homes - This script displays all the users and their home directories, sorted by users. 
 <hr>
+100-empty_casks - This script empty files and directories in the current directory and all sub-directories.
+<hr>
