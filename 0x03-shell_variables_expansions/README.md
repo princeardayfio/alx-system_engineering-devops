@@ -12,3 +12,5 @@
 <hr>
 5-local_variables - This script that lists local variables and environment variables, and functions.
 <hr>
+6-create_local_variable - This script creates a new local variable
+<hr>
