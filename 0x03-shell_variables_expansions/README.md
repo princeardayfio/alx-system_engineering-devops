@@ -8,3 +8,6 @@
 <hr>
 3-paths - This script counts the number of directories in the PATH
 <hr>
+4-global_variables - This script lists the environment variables
+<hr>
+
