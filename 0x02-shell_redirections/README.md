@@ -24,3 +24,5 @@
 <hr>
 11-directories - This script counts the number of directories and subdirectories in the current directories (including hidden directories)
 <hr>
+12-newest_files - This script displays the 10 newest files in the current directory
+<hr>
