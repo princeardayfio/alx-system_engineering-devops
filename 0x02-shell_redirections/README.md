@@ -38,3 +38,5 @@
 <hr>
 18-letteronly - This script displays all the lines of the file /etc/ssh/sshd_config starting with a letter.
 <hr>
+19-AZ - This script replaces all characters A and c from input to Z and e respectively. 
+<hr>
