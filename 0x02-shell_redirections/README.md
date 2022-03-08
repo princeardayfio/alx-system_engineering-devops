@@ -22,3 +22,5 @@
 <hr>
 10-no_more_js - This script deletes all the regular files with a .js extension that are present in the current directory and all its subfolders
 <hr>
+11-directories - This script counts the number of directories and subdirectories in the current directories (including hidden directories)
+<hr>
