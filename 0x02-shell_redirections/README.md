@@ -14,3 +14,5 @@
 <hr>
 6-third_line - This script displays the third line of the file iacta
 <hr>
+7-file - This script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School
+<hr>
