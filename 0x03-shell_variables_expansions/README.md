@@ -18,3 +18,5 @@
 <hr>
 8-true_knowledge - This script prints result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 <hr>
+9-divide_and_rule - This script prints the result of POWER divide by DIVIDE
+<hr>
