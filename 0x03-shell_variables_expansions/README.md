@@ -22,3 +22,5 @@
 <hr>
 10-love_exponent_breath - This script displays the result of BREATH to the power LOVE
 <hr>
+11-binary_to_decimal - This script converts from base 2 to base 10
+<hr>
